@@ -21,7 +21,7 @@ Django와 비교했을 때 `Model = Django Model `, `View = Django Template`, `C
 
 1. **Client -> DispatcherServlet** : URL로 접근하여 정보를 요청한다.
 2. **Dispatcher Serverlet -> HandlerMapping** : HandlerMapping에 해당 URL을 매핑한 컨트롤러가 있는지 검색을 요청한다.
-3. **DispatcherServerlet -> Controler ** : 컨트롤러에 처리를 요청한다.
+3. **DispatcherServerlet -> Controler** : 컨트롤러에 처리를 요청한다.
 4. **Controller -> (Model And View) -> DispatcherServlet** : 컨트롤러가 요청을 처리한 후 응답을 받을 View의 이름을 반환한다.
 5. **DispatcherServlet -> View Resolver** : 응답 받을 View가 존재하는지 검색한다.
 6. **View Resolver -> View** : 검색 결과를 View에 전달한다.
