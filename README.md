@@ -6,7 +6,7 @@ Spring in Action 5판을 통해 공부한 내용과 인프런의 강의들을 �
 
 **[Spring in Action]**
 
-- [Ch1. 스프링 시작하기]([https://github.com/gy-ulbak96/Spring/blob/master/Spring%20in%20Action_1.md](https://github.com/gy-ulbak96/Spring/blob/master/Spring in Action_1.md))
+- [Ch1. 스프링 시작하기]([https://github.com/gy-ulbak96/Spring/blob/master/Spring%20in%20Action_1.md])
 
 
 
