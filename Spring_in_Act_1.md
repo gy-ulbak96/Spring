@@ -195,7 +195,7 @@ public class HomeControllerTest {
 
 5. http://locolhost:8080 접속
 
-![1597814848905](C:\Users\kyuri\AppData\Roaming\Typora\typora-user-images\1597814848905.png)
+![image](https://user-images.githubusercontent.com/42667951/90608281-57138180-e23d-11ea-8a94-1db584a107d9.png)
 
 Django를 주로 다뤄본 입장에서는 흐름이 어느정도 비슷해서 더 편안하게 다가오는 것 같다. Unit Test를 작성할 수 있는 것이 독특한 장점처럼 느껴진다.  
 
